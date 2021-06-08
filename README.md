@@ -1,1 +1,3 @@
-# Data_Science_Labs
+# Data Science Labs
+
+This is a collection of labs for the Dell Training
