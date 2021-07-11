@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 HotDog/hotdog_data/
+
+HotDog/not_hotdog.zip
